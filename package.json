@@ -1,0 +1,26 @@
+{
+  "name": "angular-typing",
+  "version": "1.0.0",
+  "description": "Angular module to improve input typing behavior",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andrefy/angular-typing.git"
+  },
+  "keywords": [
+    "angular",
+    "typing"
+  ],
+  "author": "Andres Yajamin <andrefy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrefy/angular-typing/issues"
+  },
+  "homepage": "https://github.com/andrefy/angular-typing#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

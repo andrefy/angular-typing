@@ -1,0 +1,21 @@
+{
+  "name": "angular-typing",
+  "authors": [
+    "Andres Yajamin <andrefy@gmail.com>"
+  ],
+  "description": "Angular module to improve input typing behavior",
+  "main": "dist/angular-typing.min.js",
+  "keywords": [
+    "typing",
+    "angular"
+  ],
+  "license": "MIT",
+  "homepage": "http://andrefy.github.io/angular-typing",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
